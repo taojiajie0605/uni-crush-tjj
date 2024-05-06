@@ -1,0 +1,20 @@
+{
+  "name": "uni-crush-tjj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "uview-ui": "^2.0.36"
+  },
+  "devDependencies": {
+    "sass": "^1.72.0",
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

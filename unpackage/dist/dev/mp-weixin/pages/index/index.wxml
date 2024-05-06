@@ -1,0 +1,1 @@
+<view class="content"><view class="btn-area"><u-button vue-id="8dd740cc-1" type="primary" data-event-opts="{{[['^click',[['toGamePage']]]]}}" bind:click="__e" bind:__l="__l" vue-slots="{{['default']}}">进入游戏</u-button></view></view>
